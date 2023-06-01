@@ -1,4 +1,4 @@
 # go-goroutines
 ```
- go routine with keywords "go" befor calling a functions
+ go routine with keywords "go" before calling a functions
 ```
